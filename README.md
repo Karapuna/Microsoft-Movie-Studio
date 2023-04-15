@@ -26,6 +26,7 @@ To make this analysis a success, I used the im.db data set as well as the bom.mo
 __Visualizations__
 
 From the analysis the following visualizations were derived;
+
 [Genre Popularity](https://github.com/Karapuna/Microsoft-Movie-Studio/blob/master/Genre%20Analysis.png)
 
 
