@@ -40,6 +40,8 @@ From the analysis the following visualizations were derived;
 
 
 __Summary Of Conclusion and Relevant Findings__
+
+
 There are many factors that affect the success of a movie. Our analysis covers some of the factors to enable Microsoft Studio to understand the best way to venture into the movie industry.
 
 Genres Analysis
